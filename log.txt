@@ -999,3 +999,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0182. 🔧 refactor: remove redundant code blocks
 0460. 📚 docs: write FAQ section
+0858. ♻️ chore: clean up unused files
