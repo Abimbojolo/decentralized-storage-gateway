@@ -2003,3 +2003,4 @@
 0486. ✨ feat: add export to CSV option
 0156. 🎨 style: rename variables for clarity
 0671. 🐛 fix: fix null pointer exception on login
+0862. ♻️ chore: bump dependencies
