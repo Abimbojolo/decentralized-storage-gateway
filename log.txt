@@ -1031,3 +1031,4 @@
 0639. 🐛 fix: correct typo in registration form
 0182. 🔧 refactor: remove redundant code blocks
 0217. 🚀 perf: reduce image load time
+0681. ✨ feat: create admin dashboard
