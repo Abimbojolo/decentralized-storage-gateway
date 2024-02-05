@@ -1041,3 +1041,4 @@
 0558. ✨ feat: enable dark mode toggle
 0953. 🎨 style: remove trailing whitespace
 0445. 📚 docs: improve code comments in utils
+0506. 🐛 fix: handle 500 error in quiz API
