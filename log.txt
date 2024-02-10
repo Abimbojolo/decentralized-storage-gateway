@@ -1049,3 +1049,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0963. 🚀 perf: reduce image load time
 0777. 📚 docs: document token refresh logic
+0010. ✨ feat: add user authentication
