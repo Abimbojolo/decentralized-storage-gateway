@@ -1047,3 +1047,4 @@
 0580. ♻️ chore: bump dependencies
 0865. ♻️ chore: add GitHub actions badge
 0727. ♻️ chore: add GitHub actions badge
+0963. 🚀 perf: reduce image load time
