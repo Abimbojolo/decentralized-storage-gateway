@@ -1052,3 +1052,4 @@
 0010. ✨ feat: add user authentication
 0543. ✨ feat: support email verification
 0636. ✅ test: increase coverage on auth module
+0821. ✅ test: add integration test for /submit endpoint
