@@ -1051,3 +1051,4 @@
 0777. 📚 docs: document token refresh logic
 0010. ✨ feat: add user authentication
 0543. ✨ feat: support email verification
+0636. ✅ test: increase coverage on auth module
