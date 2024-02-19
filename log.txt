@@ -1060,3 +1060,4 @@
 0991. ♻️ chore: clean up unused files
 0648. ♻️ chore: bump dependencies
 0755. 🚀 perf: cache repeated calculations
+0053. ✅ test: increase coverage on auth module
