@@ -1064,3 +1064,4 @@
 0839. 🎨 style: apply consistent indentation
 0041. 🐛 fix: fix broken CSS in mobile view
 0614. 🚀 perf: reduce image load time
+0966. 📚 docs: improve code comments in utils
