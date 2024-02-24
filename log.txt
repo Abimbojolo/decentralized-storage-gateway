@@ -1065,3 +1065,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0614. 🚀 perf: reduce image load time
 0966. 📚 docs: improve code comments in utils
+0848. 📚 docs: update README with setup steps
