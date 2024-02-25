@@ -1067,3 +1067,4 @@
 0966. 📚 docs: improve code comments in utils
 0848. 📚 docs: update README with setup steps
 0869. ♻️ chore: bump dependencies
+0512. 🚀 perf: reduce image load time
