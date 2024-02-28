@@ -1072,3 +1072,4 @@
 0884. 📚 docs: clarify environment setup
 0913. 🚀 perf: optimize database query for quiz results
 0868. ✅ test: add unit test for quiz service
+0893. 🐛 fix: handle 500 error in quiz API
