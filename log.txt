@@ -1074,3 +1074,4 @@
 0868. ✅ test: add unit test for quiz service
 0893. 🐛 fix: handle 500 error in quiz API
 0968. 🎨 style: standardize quote style
+0100. ♻️ chore: update .gitignore
