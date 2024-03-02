@@ -1075,3 +1075,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0968. 🎨 style: standardize quote style
 0100. ♻️ chore: update .gitignore
+0099. 🚀 perf: reduce image load time
