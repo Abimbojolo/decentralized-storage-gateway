@@ -1079,3 +1079,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0152. ✨ feat: add user authentication
 0793. 📚 docs: clarify environment setup
+0185. 📚 docs: write FAQ section
