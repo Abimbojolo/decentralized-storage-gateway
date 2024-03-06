@@ -1081,3 +1081,4 @@
 0793. 📚 docs: clarify environment setup
 0185. 📚 docs: write FAQ section
 0645. 🐛 fix: resolve issue with date parsing
+0798. 🚀 perf: reduce image load time
