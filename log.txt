@@ -1082,3 +1082,4 @@
 0185. 📚 docs: write FAQ section
 0645. 🐛 fix: resolve issue with date parsing
 0798. 🚀 perf: reduce image load time
+0192. ✨ feat: enable dark mode toggle
