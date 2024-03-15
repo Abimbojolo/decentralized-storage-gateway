@@ -1092,3 +1092,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0352. ✨ feat: add export to CSV option
 0504. 📚 docs: document token refresh logic
+0200. 🐛 fix: handle 500 error in quiz API
