@@ -1098,3 +1098,4 @@
 0847. ♻️ chore: clean up unused files
 0450. 🐛 fix: fix broken CSS in mobile view
 0690. 🚀 perf: lazy-load components
+0372. ✨ feat: add user authentication
