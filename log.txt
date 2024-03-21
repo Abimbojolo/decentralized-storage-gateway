@@ -1099,3 +1099,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0690. 🚀 perf: lazy-load components
 0372. ✨ feat: add user authentication
+0862. ♻️ chore: bump dependencies
