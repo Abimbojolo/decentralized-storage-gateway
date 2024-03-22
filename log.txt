@@ -1101,3 +1101,4 @@
 0372. ✨ feat: add user authentication
 0862. ♻️ chore: bump dependencies
 0147. ♻️ chore: bump dependencies
+0204. 🎨 style: standardize quote style
