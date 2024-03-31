@@ -1109,3 +1109,4 @@
 0209. ✨ feat: implement quiz timer feature
 0912. 📚 docs: document token refresh logic
 0353. ♻️ chore: rename env.example
+0366. 🔧 refactor: remove redundant code blocks
