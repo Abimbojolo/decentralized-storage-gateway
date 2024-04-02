@@ -1110,3 +1110,4 @@
 0912. 📚 docs: document token refresh logic
 0353. ♻️ chore: rename env.example
 0366. 🔧 refactor: remove redundant code blocks
+0461. ✨ feat: add user authentication
