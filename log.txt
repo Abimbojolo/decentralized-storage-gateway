@@ -2022,3 +2022,4 @@
 0227. ✅ test: test user registration edge cases
 0263. 📚 docs: add API usage examples
 0039. ✅ test: add integration test for /submit endpoint
+0006. 🐛 fix: prevent crash on empty input
