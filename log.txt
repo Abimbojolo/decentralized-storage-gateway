@@ -1124,3 +1124,4 @@
 0113. ✨ feat: add user authentication
 0535. 📚 docs: write FAQ section
 0563. 📚 docs: clarify environment setup
+0162. ♻️ chore: add GitHub actions badge
