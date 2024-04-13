@@ -2024,3 +2024,4 @@
 0039. ✅ test: add integration test for /submit endpoint
 0006. 🐛 fix: prevent crash on empty input
 0578. ✅ test: add integration test for /submit endpoint
+0524. ♻️ chore: rename env.example
