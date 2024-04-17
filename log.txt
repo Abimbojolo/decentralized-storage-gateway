@@ -1130,3 +1130,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0926. 🔧 refactor: organize models into subfolders
 0337. 📚 docs: document token refresh logic
+0766. 🎨 style: reformat files with black
