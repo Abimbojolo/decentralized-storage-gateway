@@ -1143,3 +1143,4 @@
 0219. ✅ test: increase coverage on auth module
 0707. 🎨 style: apply consistent indentation
 0746. ♻️ chore: add GitHub actions badge
+0624. ✅ test: add unit test for quiz service
