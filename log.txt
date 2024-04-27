@@ -1150,3 +1150,4 @@
 0816. 🔧 refactor: organize models into subfolders
 0358. 🚀 perf: reduce image load time
 0079. 🐛 fix: correct typo in registration form
+0475. 🔧 refactor: clean up auth middleware
