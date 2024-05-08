@@ -1159,3 +1159,4 @@
 0686. 🎨 style: standardize quote style
 0009. ✨ feat: enable dark mode toggle
 0128. ♻️ chore: rename env.example
+0013. ✅ test: increase coverage on auth module
