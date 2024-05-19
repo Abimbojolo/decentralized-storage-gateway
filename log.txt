@@ -1173,3 +1173,4 @@
 0981. 🚀 perf: lazy-load components
 0975. 🎨 style: apply consistent indentation
 0518. ✨ feat: support email verification
+0855. 🎨 style: reformat files with black
