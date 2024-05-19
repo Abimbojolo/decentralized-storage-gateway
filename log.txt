@@ -1172,3 +1172,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0981. 🚀 perf: lazy-load components
 0975. 🎨 style: apply consistent indentation
+0518. ✨ feat: support email verification
