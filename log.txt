@@ -1178,3 +1178,4 @@
 1000. ✅ test: increase coverage on auth module
 0393. 🚀 perf: lazy-load components
 0132. ✅ test: add unit test for quiz service
+0431. 🎨 style: reformat files with black
