@@ -2031,3 +2031,4 @@
 0498. ✅ test: mock database connection in test suite
 0219. ✅ test: increase coverage on auth module
 0469. 🚀 perf: lazy-load components
+0034. 📚 docs: improve code comments in utils
