@@ -1183,3 +1183,4 @@
 0741. 🎨 style: apply consistent indentation
 0410. 🎨 style: reformat files with black
 0772. 🐛 fix: fix null pointer exception on login
+0060. ♻️ chore: clean up unused files
