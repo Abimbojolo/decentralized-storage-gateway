@@ -1188,3 +1188,4 @@
 0837. 🚀 perf: cache repeated calculations
 0613. 🐛 fix: prevent crash on empty input
 0905. ♻️ chore: bump dependencies
+0958. 🐛 fix: prevent crash on empty input
