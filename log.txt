@@ -1197,3 +1197,4 @@
 0054. ♻️ chore: update .gitignore
 0436. ✅ test: add integration test for /submit endpoint
 0757. 🔧 refactor: remove redundant code blocks
+0339. 📚 docs: update README with setup steps
