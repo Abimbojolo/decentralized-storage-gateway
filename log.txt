@@ -1198,3 +1198,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0757. 🔧 refactor: remove redundant code blocks
 0339. 📚 docs: update README with setup steps
+0773. 📚 docs: document token refresh logic
