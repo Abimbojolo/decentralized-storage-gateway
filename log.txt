@@ -1203,3 +1203,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0548. 📚 docs: write FAQ section
 0589. 🐛 fix: fix broken CSS in mobile view
+0638. 📚 docs: improve code comments in utils
