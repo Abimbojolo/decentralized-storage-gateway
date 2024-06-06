@@ -1204,3 +1204,4 @@
 0548. 📚 docs: write FAQ section
 0589. 🐛 fix: fix broken CSS in mobile view
 0638. 📚 docs: improve code comments in utils
+0565. ♻️ chore: add GitHub actions badge
