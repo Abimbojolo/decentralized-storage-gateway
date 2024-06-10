@@ -1210,3 +1210,4 @@
 0756. ✨ feat: support email verification
 0857. 🎨 style: rename variables for clarity
 0256. ✅ test: mock database connection in test suite
+0080. ✨ feat: support email verification
