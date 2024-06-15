@@ -1220,3 +1220,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0825. 🔧 refactor: split large controller into smaller functions
 0891. ✨ feat: create admin dashboard
+0332. 🎨 style: standardize quote style
