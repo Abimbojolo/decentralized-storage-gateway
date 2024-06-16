@@ -1222,3 +1222,4 @@
 0891. ✨ feat: create admin dashboard
 0332. 🎨 style: standardize quote style
 0051. ✨ feat: enable dark mode toggle
+0263. 📚 docs: add API usage examples
