@@ -1223,3 +1223,4 @@
 0332. 🎨 style: standardize quote style
 0051. ✨ feat: enable dark mode toggle
 0263. 📚 docs: add API usage examples
+0329. 📚 docs: update README with setup steps
