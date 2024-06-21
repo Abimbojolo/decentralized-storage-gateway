@@ -1231,3 +1231,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0994. 🚀 perf: reduce image load time
 0547. 📚 docs: write FAQ section
+0144. ✅ test: increase coverage on auth module
