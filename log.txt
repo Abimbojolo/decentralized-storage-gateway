@@ -1245,3 +1245,4 @@
 0323. 📚 docs: clarify environment setup
 0451. ✨ feat: support email verification
 0809. ♻️ chore: rename env.example
+0988. 🐛 fix: fix broken CSS in mobile view
