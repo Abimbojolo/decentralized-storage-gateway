@@ -1246,3 +1246,4 @@
 0451. ✨ feat: support email verification
 0809. ♻️ chore: rename env.example
 0988. 🐛 fix: fix broken CSS in mobile view
+0091. ✨ feat: add user authentication
