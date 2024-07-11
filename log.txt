@@ -1252,3 +1252,4 @@
 0249. ✅ test: increase coverage on auth module
 0730. ✅ test: test user registration edge cases
 0360. ✨ feat: add export to CSV option
+0074. ♻️ chore: add GitHub actions badge
