@@ -1250,3 +1250,4 @@
 0241. 📚 docs: add API usage examples
 0232. 🎨 style: apply consistent indentation
 0249. ✅ test: increase coverage on auth module
+0730. ✅ test: test user registration edge cases
