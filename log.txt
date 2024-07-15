@@ -1263,3 +1263,4 @@
 0151. ✅ test: add unit test for quiz service
 0398. 🚀 perf: cache repeated calculations
 0497. 🔧 refactor: refactor quiz grading logic
+0207. 🐛 fix: prevent crash on empty input
