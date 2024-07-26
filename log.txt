@@ -2055,3 +2055,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0463. 🚀 perf: reduce image load time
 0826. 📚 docs: clarify environment setup
+0110. 🐛 fix: prevent crash on empty input
