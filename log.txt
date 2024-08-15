@@ -1289,3 +1289,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0262. 🎨 style: remove trailing whitespace
 0150. 🎨 style: remove trailing whitespace
+0950. 🎨 style: reformat files with black
