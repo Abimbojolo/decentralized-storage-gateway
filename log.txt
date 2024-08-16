@@ -1290,3 +1290,4 @@
 0262. 🎨 style: remove trailing whitespace
 0150. 🎨 style: remove trailing whitespace
 0950. 🎨 style: reformat files with black
+0177. 📚 docs: add API usage examples
