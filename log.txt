@@ -2061,3 +2061,4 @@
 0850. ♻️ chore: rename env.example
 0432. 🎨 style: apply consistent indentation
 0723. 🔧 refactor: remove redundant code blocks
+0773. 📚 docs: document token refresh logic
