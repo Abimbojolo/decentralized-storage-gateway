@@ -1296,3 +1296,4 @@
 0669. ✨ feat: enable dark mode toggle
 0448. 🐛 fix: correct typo in registration form
 0792. 🎨 style: standardize quote style
+0354. 📚 docs: add API usage examples
