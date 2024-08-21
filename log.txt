@@ -2062,3 +2062,4 @@
 0432. 🎨 style: apply consistent indentation
 0723. 🔧 refactor: remove redundant code blocks
 0773. 📚 docs: document token refresh logic
+0192. ✨ feat: enable dark mode toggle
