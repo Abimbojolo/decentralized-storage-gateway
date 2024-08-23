@@ -1301,3 +1301,4 @@
 0907. 🔧 refactor: split large controller into smaller functions
 0344. ♻️ chore: add GitHub actions badge
 0453. 🎨 style: standardize quote style
+0572. ✨ feat: add user authentication
