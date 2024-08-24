@@ -1304,3 +1304,4 @@
 0572. ✨ feat: add user authentication
 0861. ♻️ chore: clean up unused files
 0879. 🎨 style: standardize quote style
+0791. 🔧 refactor: clean up auth middleware
