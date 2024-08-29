@@ -1313,3 +1313,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0603. 🐛 fix: fix broken CSS in mobile view
 0567. 📚 docs: add API usage examples
+0576. ♻️ chore: update .gitignore
