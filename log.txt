@@ -1314,3 +1314,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0567. 📚 docs: add API usage examples
 0576. ♻️ chore: update .gitignore
+0590. 🐛 fix: fix null pointer exception on login
