@@ -1320,3 +1320,4 @@
 0795. 📚 docs: update README with setup steps
 0088. 📚 docs: add API usage examples
 0389. 📚 docs: improve code comments in utils
+0764. ✨ feat: add user authentication
