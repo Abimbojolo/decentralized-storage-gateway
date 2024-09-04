@@ -1324,3 +1324,4 @@
 0270. ♻️ chore: rename env.example
 0561. 📚 docs: write FAQ section
 0386. 🚀 perf: optimize database query for quiz results
+0778. 📚 docs: write FAQ section
