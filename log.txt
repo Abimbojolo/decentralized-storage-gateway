@@ -1323,3 +1323,4 @@
 0764. ✨ feat: add user authentication
 0270. ♻️ chore: rename env.example
 0561. 📚 docs: write FAQ section
+0386. 🚀 perf: optimize database query for quiz results
