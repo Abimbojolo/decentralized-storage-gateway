@@ -1325,3 +1325,4 @@
 0561. 📚 docs: write FAQ section
 0386. 🚀 perf: optimize database query for quiz results
 0778. 📚 docs: write FAQ section
+0477. 🐛 fix: fix broken CSS in mobile view
