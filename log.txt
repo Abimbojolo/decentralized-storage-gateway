@@ -1328,3 +1328,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0722. 📚 docs: add API usage examples
 0726. ✨ feat: enable dark mode toggle
+0628. ♻️ chore: add GitHub actions badge
