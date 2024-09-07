@@ -1329,3 +1329,4 @@
 0722. 📚 docs: add API usage examples
 0726. ✨ feat: enable dark mode toggle
 0628. ♻️ chore: add GitHub actions badge
+0391. 🐛 fix: fix null pointer exception on login
