@@ -1333,3 +1333,4 @@
 0601. ✨ feat: implement quiz timer feature
 0736. 🐛 fix: fix null pointer exception on login
 0112. ✨ feat: enable dark mode toggle
+0488. ♻️ chore: add GitHub actions badge
