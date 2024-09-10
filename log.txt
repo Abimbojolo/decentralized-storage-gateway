@@ -1334,3 +1334,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0112. ✨ feat: enable dark mode toggle
 0488. ♻️ chore: add GitHub actions badge
+0600. 🐛 fix: prevent crash on empty input
