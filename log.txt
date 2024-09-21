@@ -1350,3 +1350,4 @@
 0404. 📚 docs: improve code comments in utils
 0817. 🔧 refactor: remove redundant code blocks
 0324. 📚 docs: document token refresh logic
+0409. 🚀 perf: lazy-load components
