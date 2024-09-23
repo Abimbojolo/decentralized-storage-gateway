@@ -1353,3 +1353,4 @@
 0409. 🚀 perf: lazy-load components
 0833. ✨ feat: add user authentication
 0194. 🎨 style: standardize quote style
+0102. ✨ feat: support email verification
