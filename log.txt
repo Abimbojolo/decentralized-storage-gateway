@@ -1354,3 +1354,4 @@
 0833. ✨ feat: add user authentication
 0194. 🎨 style: standardize quote style
 0102. ✨ feat: support email verification
+0482. ✨ feat: add export to CSV option
