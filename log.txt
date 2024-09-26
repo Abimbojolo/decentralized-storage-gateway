@@ -1358,3 +1358,4 @@
 0962. ✨ feat: create admin dashboard
 0125. ✅ test: add integration test for /submit endpoint
 0316. 🐛 fix: fix broken CSS in mobile view
+0446. 🎨 style: apply consistent indentation
