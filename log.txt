@@ -1360,3 +1360,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0446. 🎨 style: apply consistent indentation
 0135. ✅ test: test user registration edge cases
+0491. 🚀 perf: lazy-load components
