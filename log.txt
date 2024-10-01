@@ -1362,3 +1362,4 @@
 0135. ✅ test: test user registration edge cases
 0491. 🚀 perf: lazy-load components
 0550. 🔧 refactor: split large controller into smaller functions
+0237. 🎨 style: standardize quote style
