@@ -1366,3 +1366,4 @@
 0070. ✨ feat: implement quiz timer feature
 0097. 🐛 fix: handle 500 error in quiz API
 0908. ♻️ chore: bump dependencies
+0646. ✅ test: test user registration edge cases
