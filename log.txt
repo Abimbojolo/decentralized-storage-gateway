@@ -2073,3 +2073,4 @@
 0210. 🎨 style: apply consistent indentation
 0910. 🎨 style: remove trailing whitespace
 0339. 📚 docs: update README with setup steps
+0557. 🔧 refactor: clean up auth middleware
