@@ -1379,3 +1379,4 @@
 0549. ✨ feat: enable dark mode toggle
 0718. 🐛 fix: resolve issue with date parsing
 0118. 🚀 perf: reduce image load time
+0944. ✨ feat: add user authentication
