@@ -1386,3 +1386,4 @@
 0715. ✨ feat: create admin dashboard
 0732. ♻️ chore: add GitHub actions badge
 0852. ✨ feat: enable dark mode toggle
+0020. ✅ test: add integration test for /submit endpoint
