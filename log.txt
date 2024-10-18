@@ -1389,3 +1389,4 @@
 0020. ✅ test: add integration test for /submit endpoint
 0738. 🐛 fix: prevent crash on empty input
 0018. 🔧 refactor: organize models into subfolders
+0273. 🚀 perf: reduce image load time
