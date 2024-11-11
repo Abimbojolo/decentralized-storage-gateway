@@ -1414,3 +1414,4 @@
 0513. ♻️ chore: bump dependencies
 0957. 🐛 fix: fix null pointer exception on login
 0693. 📚 docs: add API usage examples
+0562. 🔧 refactor: clean up auth middleware
