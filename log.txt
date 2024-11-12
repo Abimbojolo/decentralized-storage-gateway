@@ -2082,3 +2082,4 @@
 0131. 📚 docs: write FAQ section
 0898. 🐛 fix: fix broken CSS in mobile view
 0143. ✨ feat: implement quiz timer feature
+0519. 📚 docs: document token refresh logic
