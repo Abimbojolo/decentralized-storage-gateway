@@ -1423,3 +1423,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0225. 🚀 perf: reduce image load time
 0117. ✅ test: increase coverage on auth module
+0492. 🎨 style: remove trailing whitespace
