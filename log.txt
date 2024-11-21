@@ -1425,3 +1425,4 @@
 0117. ✅ test: increase coverage on auth module
 0492. 🎨 style: remove trailing whitespace
 0656. 🎨 style: apply consistent indentation
+0508. ✅ test: add unit test for quiz service
