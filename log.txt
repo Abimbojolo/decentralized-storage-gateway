@@ -1426,3 +1426,4 @@
 0492. 🎨 style: remove trailing whitespace
 0656. 🎨 style: apply consistent indentation
 0508. ✅ test: add unit test for quiz service
+0022. 📚 docs: document token refresh logic
