@@ -1438,3 +1438,4 @@
 0435. ✅ test: add unit test for quiz service
 0463. 🚀 perf: reduce image load time
 0395. 📚 docs: write FAQ section
+0526. ✨ feat: add user authentication
