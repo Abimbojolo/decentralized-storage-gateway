@@ -1440,3 +1440,4 @@
 0395. 📚 docs: write FAQ section
 0526. ✨ feat: add user authentication
 0108. 🎨 style: remove trailing whitespace
+0269. ✅ test: test user registration edge cases
