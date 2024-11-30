@@ -1439,3 +1439,4 @@
 0463. 🚀 perf: reduce image load time
 0395. 📚 docs: write FAQ section
 0526. ✨ feat: add user authentication
+0108. 🎨 style: remove trailing whitespace
