@@ -1441,3 +1441,4 @@
 0526. ✨ feat: add user authentication
 0108. 🎨 style: remove trailing whitespace
 0269. ✅ test: test user registration edge cases
+0246. ✅ test: add integration test for /submit endpoint
