@@ -1445,3 +1445,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0538. 🐛 fix: fix broken CSS in mobile view
 0626. 🎨 style: standardize quote style
+0056. ♻️ chore: rename env.example
