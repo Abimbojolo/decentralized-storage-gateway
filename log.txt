@@ -1444,3 +1444,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0740. 🐛 fix: resolve issue with date parsing
 0538. 🐛 fix: fix broken CSS in mobile view
+0626. 🎨 style: standardize quote style
