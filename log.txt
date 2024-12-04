@@ -2090,3 +2090,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0239. 🎨 style: standardize quote style
 0569. 📚 docs: document token refresh logic
+0641. 📚 docs: write FAQ section
