@@ -1448,3 +1448,4 @@
 0056. ♻️ chore: rename env.example
 0312. ✨ feat: add user authentication
 0597. 🚀 perf: cache repeated calculations
+0937. 🐛 fix: handle 500 error in quiz API
