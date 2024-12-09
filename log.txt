@@ -1451,3 +1451,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0106. 🎨 style: reformat files with black
 0309. 🔧 refactor: refactor quiz grading logic
+0797. 📚 docs: add API usage examples
