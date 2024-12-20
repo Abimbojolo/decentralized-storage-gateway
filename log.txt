@@ -1468,3 +1468,4 @@
 0090. ✅ test: increase coverage on auth module
 0904. ✨ feat: implement quiz timer feature
 0028. 🎨 style: standardize quote style
+0946. ✅ test: add unit test for quiz service
