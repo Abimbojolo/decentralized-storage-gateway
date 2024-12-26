@@ -1473,3 +1473,4 @@
 0188. 🎨 style: apply consistent indentation
 0807. 🔧 refactor: remove redundant code blocks
 0539. 🔧 refactor: organize models into subfolders
+0977. 🔧 refactor: organize models into subfolders
