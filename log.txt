@@ -1,1 +1,2 @@
 0023. 📚 docs: clarify environment setup
+0618. ✨ feat: support email verification
