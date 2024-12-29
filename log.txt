@@ -1,2 +1,3 @@
 0023. 📚 docs: clarify environment setup
 0618. ✨ feat: support email verification
+0272. 🔧 refactor: remove redundant code blocks
