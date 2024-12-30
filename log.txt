@@ -1480,3 +1480,4 @@
 0183. 🔧 refactor: split large controller into smaller functions
 0823. ✨ feat: add user authentication
 0651. ✨ feat: enable dark mode toggle
+0585. 🚀 perf: lazy-load components
