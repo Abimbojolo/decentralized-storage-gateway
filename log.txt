@@ -5,3 +5,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0419. 🎨 style: remove trailing whitespace
 0831. 📚 docs: clarify environment setup
+0571. 🔧 refactor: clean up auth middleware
