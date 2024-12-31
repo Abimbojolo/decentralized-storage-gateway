@@ -1482,3 +1482,4 @@
 0651. ✨ feat: enable dark mode toggle
 0585. 🚀 perf: lazy-load components
 0925. ✨ feat: add export to CSV option
+0317. ✅ test: test user registration edge cases
