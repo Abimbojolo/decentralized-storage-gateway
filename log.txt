@@ -6,3 +6,4 @@
 0419. 🎨 style: remove trailing whitespace
 0831. 📚 docs: clarify environment setup
 0571. 🔧 refactor: clean up auth middleware
+0556. ✨ feat: support email verification
