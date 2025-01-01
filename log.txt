@@ -11,3 +11,4 @@
 0558. ✨ feat: enable dark mode toggle
 0755. 🚀 perf: cache repeated calculations
 0269. ✅ test: test user registration edge cases
+0153. ♻️ chore: rename env.example
