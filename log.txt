@@ -13,3 +13,4 @@
 0269. ✅ test: test user registration edge cases
 0153. ♻️ chore: rename env.example
 0945. ♻️ chore: add GitHub actions badge
+0562. 🔧 refactor: clean up auth middleware
