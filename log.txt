@@ -15,3 +15,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0562. 🔧 refactor: clean up auth middleware
 0637. 🎨 style: apply consistent indentation
+0951. 🎨 style: rename variables for clarity
