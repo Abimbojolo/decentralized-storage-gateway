@@ -20,3 +20,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0569. 📚 docs: document token refresh logic
 0499. 🎨 style: reformat files with black
+0450. 🐛 fix: fix broken CSS in mobile view
