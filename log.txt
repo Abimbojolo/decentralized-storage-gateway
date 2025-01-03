@@ -1488,3 +1488,4 @@
 0406. ✨ feat: add export to CSV option
 0378. 🐛 fix: prevent crash on empty input
 0459. 🔧 refactor: organize models into subfolders
+0048. 📚 docs: update README with setup steps
