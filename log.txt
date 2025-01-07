@@ -28,3 +28,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0021. ✨ feat: support email verification
 0492. 🎨 style: remove trailing whitespace
+0926. 🔧 refactor: organize models into subfolders
