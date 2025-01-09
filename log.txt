@@ -1492,3 +1492,4 @@
 0490. ✨ feat: create admin dashboard
 0705. 🔧 refactor: refactor quiz grading logic
 0747. 🔧 refactor: clean up auth middleware
+0902. ✨ feat: enable dark mode toggle
