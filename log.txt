@@ -2100,3 +2100,4 @@
 0347. ♻️ chore: update .gitignore
 0421. 🔧 refactor: split large controller into smaller functions
 0352. ✨ feat: add export to CSV option
+0630. 🚀 perf: lazy-load components
