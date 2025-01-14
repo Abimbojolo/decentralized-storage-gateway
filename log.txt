@@ -2102,3 +2102,4 @@
 0352. ✨ feat: add export to CSV option
 0630. 🚀 perf: lazy-load components
 0571. 🔧 refactor: clean up auth middleware
+0383. 🐛 fix: fix broken CSS in mobile view
