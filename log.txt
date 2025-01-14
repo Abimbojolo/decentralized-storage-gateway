@@ -48,3 +48,4 @@
 0915. 🚀 perf: cache repeated calculations
 0504. 📚 docs: document token refresh logic
 0298. ♻️ chore: update .gitignore
+0464. 🎨 style: remove trailing whitespace
