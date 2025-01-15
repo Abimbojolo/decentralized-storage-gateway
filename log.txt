@@ -1498,3 +1498,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0105. 🐛 fix: correct typo in registration form
 0120. ✅ test: add integration test for /submit endpoint
+0578. ✅ test: add integration test for /submit endpoint
