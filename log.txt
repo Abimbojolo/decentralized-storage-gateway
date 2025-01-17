@@ -58,3 +58,4 @@
 0528. ♻️ chore: clean up unused files
 0051. ✨ feat: enable dark mode toggle
 0835. 🐛 fix: prevent crash on empty input
+0840. 🔧 refactor: refactor quiz grading logic
