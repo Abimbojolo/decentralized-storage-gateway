@@ -60,3 +60,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0840. 🔧 refactor: refactor quiz grading logic
 0524. ♻️ chore: rename env.example
+0027. 📚 docs: clarify environment setup
