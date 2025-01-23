@@ -1512,3 +1512,4 @@
 0954. 🚀 perf: cache repeated calculations
 0357. ✅ test: add unit test for quiz service
 0812. 🔧 refactor: refactor quiz grading logic
+0412. ✅ test: increase coverage on auth module
