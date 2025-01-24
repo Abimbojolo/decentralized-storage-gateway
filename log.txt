@@ -72,3 +72,4 @@
 0242. ♻️ chore: clean up unused files
 0913. 🚀 perf: optimize database query for quiz results
 0827. 🚀 perf: optimize database query for quiz results
+0567. 📚 docs: add API usage examples
