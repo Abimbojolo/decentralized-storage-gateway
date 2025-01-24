@@ -1513,3 +1513,4 @@
 0357. ✅ test: add unit test for quiz service
 0812. 🔧 refactor: refactor quiz grading logic
 0412. ✅ test: increase coverage on auth module
+0281. ✨ feat: support email verification
