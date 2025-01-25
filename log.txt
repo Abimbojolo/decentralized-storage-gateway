@@ -73,3 +73,4 @@
 0913. 🚀 perf: optimize database query for quiz results
 0827. 🚀 perf: optimize database query for quiz results
 0567. 📚 docs: add API usage examples
+0049. 🐛 fix: handle 500 error in quiz API
