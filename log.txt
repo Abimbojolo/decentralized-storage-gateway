@@ -79,3 +79,4 @@
 0008. 🚀 perf: reduce image load time
 0537. 🔧 refactor: remove redundant code blocks
 0738. 🐛 fix: prevent crash on empty input
+0029. 🚀 perf: lazy-load components
