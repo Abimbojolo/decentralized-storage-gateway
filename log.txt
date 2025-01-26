@@ -1515,3 +1515,4 @@
 0412. ✅ test: increase coverage on auth module
 0281. ✨ feat: support email verification
 0678. ✨ feat: add user authentication
+0570. 🎨 style: apply consistent indentation
