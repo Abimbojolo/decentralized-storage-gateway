@@ -93,3 +93,4 @@
 0184. 📚 docs: improve code comments in utils
 0321. 🔧 refactor: organize models into subfolders
 0289. 🐛 fix: resolve issue with date parsing
+0383. 🐛 fix: fix broken CSS in mobile view
