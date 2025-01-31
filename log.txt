@@ -1521,3 +1521,4 @@
 0575. ✅ test: add unit test for quiz service
 0802. 🔧 refactor: remove redundant code blocks
 0623. 🎨 style: standardize quote style
+0894. ✅ test: add integration test for /submit endpoint
