@@ -1520,3 +1520,4 @@
 0564. 📚 docs: clarify environment setup
 0575. ✅ test: add unit test for quiz service
 0802. 🔧 refactor: remove redundant code blocks
+0623. 🎨 style: standardize quote style
