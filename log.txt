@@ -106,3 +106,4 @@
 0471. ✨ feat: support email verification
 0574. ✨ feat: enable dark mode toggle
 0308. 🚀 perf: reduce image load time
+0451. ✨ feat: support email verification
