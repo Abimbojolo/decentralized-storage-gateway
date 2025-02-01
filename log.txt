@@ -1523,3 +1523,4 @@
 0623. 🎨 style: standardize quote style
 0894. ✅ test: add integration test for /submit endpoint
 0178. ✨ feat: support email verification
+0581. ✅ test: add integration test for /submit endpoint
