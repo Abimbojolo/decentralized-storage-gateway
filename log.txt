@@ -104,3 +104,4 @@
 0390. 🎨 style: standardize quote style
 0305. ✨ feat: enable dark mode toggle
 0471. ✨ feat: support email verification
+0574. ✨ feat: enable dark mode toggle
