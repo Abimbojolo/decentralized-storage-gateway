@@ -108,3 +108,4 @@
 0308. 🚀 perf: reduce image load time
 0451. ✨ feat: support email verification
 0287. 📚 docs: write FAQ section
+0500. ✅ test: add integration test for /submit endpoint
