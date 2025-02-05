@@ -1527,3 +1527,4 @@
 0521. 🎨 style: standardize quote style
 0245. 🐛 fix: resolve issue with date parsing
 0199. ✨ feat: create admin dashboard
+0934. ✨ feat: support email verification
