@@ -114,3 +114,4 @@
 0045. 🎨 style: apply consistent indentation
 0646. ✅ test: test user registration edge cases
 0410. 🎨 style: reformat files with black
+0379. ✨ feat: support email verification
