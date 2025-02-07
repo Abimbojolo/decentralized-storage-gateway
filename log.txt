@@ -119,3 +119,4 @@
 0003. ✅ test: increase coverage on auth module
 0576. ♻️ chore: update .gitignore
 0196. ♻️ chore: bump dependencies
+0114. ♻️ chore: update .gitignore
