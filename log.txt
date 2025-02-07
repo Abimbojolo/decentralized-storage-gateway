@@ -121,3 +121,4 @@
 0196. ♻️ chore: bump dependencies
 0114. ♻️ chore: update .gitignore
 0119. 📚 docs: improve code comments in utils
+0312. ✨ feat: add user authentication
