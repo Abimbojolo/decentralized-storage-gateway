@@ -130,3 +130,4 @@
 0564. 📚 docs: clarify environment setup
 0852. ✨ feat: enable dark mode toggle
 0730. ✅ test: test user registration edge cases
+0336. ✨ feat: add export to CSV option
