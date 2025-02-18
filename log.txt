@@ -144,3 +144,4 @@
 0487. 🎨 style: reformat files with black
 0205. 📚 docs: update README with setup steps
 0597. 🚀 perf: cache repeated calculations
+0475. 🔧 refactor: clean up auth middleware
