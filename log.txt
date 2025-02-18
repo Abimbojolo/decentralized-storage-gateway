@@ -142,3 +142,4 @@
 0010. ✨ feat: add user authentication
 0543. ✨ feat: support email verification
 0487. 🎨 style: reformat files with black
+0205. 📚 docs: update README with setup steps
