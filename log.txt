@@ -143,3 +143,4 @@
 0543. ✨ feat: support email verification
 0487. 🎨 style: reformat files with black
 0205. 📚 docs: update README with setup steps
+0597. 🚀 perf: cache repeated calculations
