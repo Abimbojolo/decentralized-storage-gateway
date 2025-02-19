@@ -1542,3 +1542,4 @@
 0642. 🚀 perf: optimize database query for quiz results
 0421. 🔧 refactor: split large controller into smaller functions
 0184. 📚 docs: improve code comments in utils
+0471. ✨ feat: support email verification
