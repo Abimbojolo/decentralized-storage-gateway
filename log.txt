@@ -149,3 +149,4 @@
 0177. 📚 docs: add API usage examples
 0159. 🚀 perf: lazy-load components
 0868. ✅ test: add unit test for quiz service
+0875. ✅ test: increase coverage on auth module
