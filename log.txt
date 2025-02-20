@@ -1545,3 +1545,4 @@
 0471. ✨ feat: support email verification
 0298. ♻️ chore: update .gitignore
 0392. 🎨 style: remove trailing whitespace
+0509. ♻️ chore: bump dependencies
