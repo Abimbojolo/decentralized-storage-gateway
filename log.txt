@@ -153,3 +153,4 @@
 0311. 🎨 style: apply consistent indentation
 0663. 🚀 perf: reduce image load time
 0929. ✨ feat: support email verification
+0270. ♻️ chore: rename env.example
