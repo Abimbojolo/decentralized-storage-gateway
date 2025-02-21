@@ -1548,3 +1548,4 @@
 0509. ♻️ chore: bump dependencies
 0694. 🎨 style: rename variables for clarity
 0625. 🐛 fix: handle 500 error in quiz API
+0503. ♻️ chore: rename env.example
