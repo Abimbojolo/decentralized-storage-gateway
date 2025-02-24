@@ -1551,3 +1551,4 @@
 0503. ♻️ chore: rename env.example
 0094. 📚 docs: document token refresh logic
 0685. ✅ test: test user registration edge cases
+0906. 📚 docs: add API usage examples
