@@ -1553,3 +1553,4 @@
 0685. ✅ test: test user registration edge cases
 0906. 📚 docs: add API usage examples
 0864. 🐛 fix: correct typo in registration form
+0306. 🎨 style: apply consistent indentation
