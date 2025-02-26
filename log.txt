@@ -172,3 +172,4 @@
 0151. ✅ test: add unit test for quiz service
 0722. 📚 docs: add API usage examples
 0833. ✨ feat: add user authentication
+0617. ✨ feat: support email verification
