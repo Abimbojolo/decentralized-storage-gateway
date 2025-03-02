@@ -1561,3 +1561,4 @@
 0720. ✨ feat: add export to CSV option
 0073. 🔧 refactor: split large controller into smaller functions
 0363. 📚 docs: clarify environment setup
+0826. 📚 docs: clarify environment setup
