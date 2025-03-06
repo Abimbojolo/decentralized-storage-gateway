@@ -185,3 +185,4 @@
 0669. ✨ feat: enable dark mode toggle
 0902. ✨ feat: enable dark mode toggle
 0608. 🔧 refactor: remove redundant code blocks
+0393. 🚀 perf: lazy-load components
