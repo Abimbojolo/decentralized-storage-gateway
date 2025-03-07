@@ -191,3 +191,4 @@
 0290. ✅ test: test user registration edge cases
 0865. ♻️ chore: add GitHub actions badge
 0014. 🔧 refactor: remove redundant code blocks
+0477. 🐛 fix: fix broken CSS in mobile view
