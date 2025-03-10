@@ -195,3 +195,4 @@
 0412. ✅ test: increase coverage on auth module
 0099. 🚀 perf: reduce image load time
 0689. 🎨 style: reformat files with black
+0709. ♻️ chore: bump dependencies
