@@ -196,3 +196,4 @@
 0099. 🚀 perf: reduce image load time
 0689. 🎨 style: reformat files with black
 0709. ♻️ chore: bump dependencies
+0135. ✅ test: test user registration edge cases
