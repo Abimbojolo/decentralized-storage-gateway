@@ -198,3 +198,4 @@
 0709. ♻️ chore: bump dependencies
 0135. ✅ test: test user registration edge cases
 0175. 📚 docs: add API usage examples
+0411. ✅ test: add unit test for quiz service
