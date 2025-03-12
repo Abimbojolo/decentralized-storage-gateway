@@ -202,3 +202,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0960. ✅ test: increase coverage on auth module
 0409. 🚀 perf: lazy-load components
+0254. 🚀 perf: reduce image load time
