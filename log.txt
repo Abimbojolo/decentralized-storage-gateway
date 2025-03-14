@@ -1576,3 +1576,4 @@
 0212. 🎨 style: standardize quote style
 0376. 🎨 style: apply consistent indentation
 0729. 🔧 refactor: refactor quiz grading logic
+0390. 🎨 style: standardize quote style
