@@ -222,3 +222,4 @@
 0771. 🚀 perf: cache repeated calculations
 0335. ♻️ chore: update .gitignore
 0953. 🎨 style: remove trailing whitespace
+0900. 🐛 fix: handle 500 error in quiz API
