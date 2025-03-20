@@ -225,3 +225,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0802. 🔧 refactor: remove redundant code blocks
 0522. 🐛 fix: handle 500 error in quiz API
+0303. 🎨 style: rename variables for clarity
