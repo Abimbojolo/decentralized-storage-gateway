@@ -232,3 +232,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0236. 🔧 refactor: remove redundant code blocks
 0652. 🔧 refactor: organize models into subfolders
+0276. ✅ test: add integration test for /submit endpoint
