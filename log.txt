@@ -2121,3 +2121,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0748. 🚀 perf: optimize database query for quiz results
 0096. 🐛 fix: prevent crash on empty input
+0122. ✨ feat: support email verification
