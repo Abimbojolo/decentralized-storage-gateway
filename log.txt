@@ -238,3 +238,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0186. ✅ test: test user registration edge cases
 0863. 🐛 fix: correct typo in registration form
+0550. 🔧 refactor: split large controller into smaller functions
