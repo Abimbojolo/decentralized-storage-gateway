@@ -1601,3 +1601,4 @@
 0595. ✨ feat: enable dark mode toggle
 0830. 🎨 style: apply consistent indentation
 0174. 📚 docs: clarify environment setup
+0592. 📚 docs: add API usage examples
