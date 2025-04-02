@@ -1603,3 +1603,4 @@
 0174. 📚 docs: clarify environment setup
 0592. 📚 docs: add API usage examples
 0029. 🚀 perf: lazy-load components
+0770. ♻️ chore: rename env.example
