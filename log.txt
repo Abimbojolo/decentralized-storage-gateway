@@ -264,3 +264,4 @@
 0141. 📚 docs: document token refresh logic
 0347. ♻️ chore: update .gitignore
 0371. ✅ test: add integration test for /submit endpoint
+0319. 🐛 fix: handle 500 error in quiz API
