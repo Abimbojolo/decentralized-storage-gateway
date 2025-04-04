@@ -270,3 +270,4 @@
 0965. 🎨 style: reformat files with black
 0142. ✨ feat: implement quiz timer feature
 0798. 🚀 perf: reduce image load time
+0128. ♻️ chore: rename env.example
