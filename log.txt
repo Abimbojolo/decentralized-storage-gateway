@@ -1606,3 +1606,4 @@
 0770. ♻️ chore: rename env.example
 0493. ✨ feat: add user authentication
 0553. 🐛 fix: correct typo in registration form
+0559. 🔧 refactor: split large controller into smaller functions
