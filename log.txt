@@ -275,3 +275,4 @@
 0650. ✅ test: add unit test for quiz service
 0928. 🎨 style: apply consistent indentation
 0459. 🔧 refactor: organize models into subfolders
+0922. 📚 docs: write FAQ section
