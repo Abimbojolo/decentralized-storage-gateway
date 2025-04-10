@@ -2124,3 +2124,4 @@
 0122. ✨ feat: support email verification
 0124. 🎨 style: reformat files with black
 0464. 🎨 style: remove trailing whitespace
+0556. ✨ feat: support email verification
