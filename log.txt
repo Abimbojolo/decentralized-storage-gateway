@@ -286,3 +286,4 @@
 0226. 🚀 perf: lazy-load components
 0240. 🔧 refactor: remove redundant code blocks
 0038. 🎨 style: rename variables for clarity
+0320. 📚 docs: update README with setup steps
