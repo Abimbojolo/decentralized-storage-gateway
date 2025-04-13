@@ -288,3 +288,4 @@
 0038. 🎨 style: rename variables for clarity
 0320. 📚 docs: update README with setup steps
 0854. ♻️ chore: rename env.example
+0365. 🚀 perf: reduce image load time
