@@ -291,3 +291,4 @@
 0365. 🚀 perf: reduce image load time
 0121. ✨ feat: support email verification
 0626. 🎨 style: standardize quote style
+0936. 🔧 refactor: organize models into subfolders
