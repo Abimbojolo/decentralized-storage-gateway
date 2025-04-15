@@ -1621,3 +1621,4 @@
 0169. 📚 docs: add API usage examples
 0697. ♻️ chore: bump dependencies
 0141. 📚 docs: document token refresh logic
+0008. 🚀 perf: reduce image load time
