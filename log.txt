@@ -294,3 +294,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0685. ✅ test: test user registration edge cases
 0054. ♻️ chore: update .gitignore
+0643. 🎨 style: apply consistent indentation
