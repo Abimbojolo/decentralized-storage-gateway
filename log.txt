@@ -300,3 +300,4 @@
 0916. ♻️ chore: bump dependencies
 0005. ✅ test: add unit test for quiz service
 0519. 📚 docs: document token refresh logic
+0725. 🚀 perf: lazy-load components
