@@ -1632,3 +1632,4 @@
 0964. ♻️ chore: clean up unused files
 0211. 🔧 refactor: remove redundant code blocks
 0257. 📚 docs: clarify environment setup
+0748. 🚀 perf: optimize database query for quiz results
