@@ -1633,3 +1633,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0257. 📚 docs: clarify environment setup
 0748. 🚀 perf: optimize database query for quiz results
+0400. 🐛 fix: fix null pointer exception on login
