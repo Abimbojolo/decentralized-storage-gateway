@@ -318,3 +318,4 @@
 0048. 📚 docs: update README with setup steps
 0166. 🚀 perf: cache repeated calculations
 0768. 🎨 style: remove trailing whitespace
+0579. 📚 docs: clarify environment setup
