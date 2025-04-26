@@ -1640,3 +1640,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0520. 🐛 fix: fix null pointer exception on login
 0489. 🔧 refactor: organize models into subfolders
+0114. ♻️ chore: update .gitignore
