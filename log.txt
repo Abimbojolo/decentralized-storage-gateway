@@ -327,3 +327,4 @@
 0770. ♻️ chore: rename env.example
 0653. 🐛 fix: prevent crash on empty input
 0659. 📚 docs: add API usage examples
+0790. 📚 docs: write FAQ section
