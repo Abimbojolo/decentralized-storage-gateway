@@ -335,3 +335,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0238. 🎨 style: apply consistent indentation
 0324. 📚 docs: document token refresh logic
+0198. 📚 docs: clarify environment setup
