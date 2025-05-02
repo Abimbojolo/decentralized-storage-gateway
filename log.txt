@@ -1643,3 +1643,4 @@
 0114. ♻️ chore: update .gitignore
 0743. 🎨 style: apply consistent indentation
 0987. ✨ feat: create admin dashboard
+0250. 📚 docs: update README with setup steps
