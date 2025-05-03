@@ -1646,3 +1646,4 @@
 0250. 📚 docs: update README with setup steps
 0338. ♻️ chore: add GitHub actions badge
 0424. ✨ feat: add user authentication
+0673. 🐛 fix: correct typo in registration form
