@@ -1645,3 +1645,4 @@
 0987. ✨ feat: create admin dashboard
 0250. 📚 docs: update README with setup steps
 0338. ♻️ chore: add GitHub actions badge
+0424. ✨ feat: add user authentication
