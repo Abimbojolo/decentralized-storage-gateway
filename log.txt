@@ -1647,3 +1647,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0424. ✨ feat: add user authentication
 0673. 🐛 fix: correct typo in registration form
+0666. 🐛 fix: fix broken CSS in mobile view
