@@ -342,3 +342,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0762. 🚀 perf: lazy-load components
 0207. 🐛 fix: prevent crash on empty input
+0923. ✨ feat: support email verification
