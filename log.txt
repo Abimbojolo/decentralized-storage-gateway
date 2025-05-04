@@ -2132,3 +2132,4 @@
 0237. 🎨 style: standardize quote style
 0978. 🐛 fix: prevent crash on empty input
 0214. 📚 docs: improve code comments in utils
+0042. 📚 docs: document token refresh logic
