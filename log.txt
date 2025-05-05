@@ -344,3 +344,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0923. ✨ feat: support email verification
 0694. 🎨 style: rename variables for clarity
+0672. 🐛 fix: fix broken CSS in mobile view
