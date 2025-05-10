@@ -359,3 +359,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0753. 🔧 refactor: remove redundant code blocks
 0538. 🐛 fix: fix broken CSS in mobile view
+0476. 🚀 perf: reduce image load time
