@@ -364,3 +364,4 @@
 0424. ✨ feat: add user authentication
 0998. 🐛 fix: fix null pointer exception on login
 0718. 🐛 fix: resolve issue with date parsing
+0657. 🎨 style: standardize quote style
