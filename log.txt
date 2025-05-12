@@ -1657,3 +1657,4 @@
 0845. 🚀 perf: cache repeated calculations
 0163. ✨ feat: implement quiz timer feature
 0921. 🐛 fix: correct typo in registration form
+0107. 🐛 fix: prevent crash on empty input
