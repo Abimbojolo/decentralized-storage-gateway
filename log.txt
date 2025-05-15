@@ -370,3 +370,4 @@
 0007. 🎨 style: rename variables for clarity
 0962. ✨ feat: create admin dashboard
 0391. 🐛 fix: fix null pointer exception on login
+0194. 🎨 style: standardize quote style
