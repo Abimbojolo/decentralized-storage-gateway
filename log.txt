@@ -375,3 +375,4 @@
 0434. 📚 docs: document token refresh logic
 0548. 📚 docs: write FAQ section
 0958. 🐛 fix: prevent crash on empty input
+0154. 🐛 fix: prevent crash on empty input
