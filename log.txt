@@ -379,3 +379,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0820. 📚 docs: add API usage examples
 0446. 🎨 style: apply consistent indentation
+0382. 📚 docs: improve code comments in utils
