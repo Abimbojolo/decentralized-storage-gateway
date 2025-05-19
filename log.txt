@@ -376,3 +376,4 @@
 0548. 📚 docs: write FAQ section
 0958. 🐛 fix: prevent crash on empty input
 0154. 🐛 fix: prevent crash on empty input
+0063. 🐛 fix: handle 500 error in quiz API
