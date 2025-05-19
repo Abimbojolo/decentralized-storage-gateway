@@ -380,3 +380,4 @@
 0820. 📚 docs: add API usage examples
 0446. 🎨 style: apply consistent indentation
 0382. 📚 docs: improve code comments in utils
+0225. 🚀 perf: reduce image load time
