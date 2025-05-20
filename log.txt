@@ -383,3 +383,4 @@
 0225. 🚀 perf: reduce image load time
 0053. ✅ test: increase coverage on auth module
 0843. 📚 docs: document token refresh logic
+0249. ✅ test: increase coverage on auth module
