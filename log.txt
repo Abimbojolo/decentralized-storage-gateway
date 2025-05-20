@@ -381,3 +381,4 @@
 0446. 🎨 style: apply consistent indentation
 0382. 📚 docs: improve code comments in utils
 0225. 🚀 perf: reduce image load time
+0053. ✅ test: increase coverage on auth module
