@@ -1668,3 +1668,4 @@
 0145. 📚 docs: improve code comments in utils
 0499. 🎨 style: reformat files with black
 0915. 🚀 perf: cache repeated calculations
+0507. 🔧 refactor: clean up auth middleware
