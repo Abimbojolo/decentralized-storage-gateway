@@ -394,3 +394,4 @@
 0404. 📚 docs: improve code comments in utils
 0408. ♻️ chore: add GitHub actions badge
 0461. ✨ feat: add user authentication
+0887. 📚 docs: add API usage examples
