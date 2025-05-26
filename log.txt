@@ -395,3 +395,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0461. ✨ feat: add user authentication
 0887. 📚 docs: add API usage examples
+0824. 🚀 perf: lazy-load components
