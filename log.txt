@@ -397,3 +397,4 @@
 0887. 📚 docs: add API usage examples
 0824. 🚀 perf: lazy-load components
 0734. ✨ feat: add export to CSV option
+0823. ✨ feat: add user authentication
