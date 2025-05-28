@@ -400,3 +400,4 @@
 0823. ✨ feat: add user authentication
 0655. 🚀 perf: cache repeated calculations
 0433. 🐛 fix: prevent crash on empty input
+0148. 🔧 refactor: organize models into subfolders
