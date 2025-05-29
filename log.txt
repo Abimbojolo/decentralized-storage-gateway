@@ -1676,3 +1676,4 @@
 0292. 📚 docs: clarify environment setup
 0711. 🐛 fix: fix broken CSS in mobile view
 0514. 🐛 fix: fix broken CSS in mobile view
+0180. ✨ feat: add export to CSV option
