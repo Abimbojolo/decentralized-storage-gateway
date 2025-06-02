@@ -2141,3 +2141,4 @@
 0617. ✨ feat: support email verification
 0845. 🚀 perf: cache repeated calculations
 0566. 📚 docs: write FAQ section
+0111. 📚 docs: update README with setup steps
