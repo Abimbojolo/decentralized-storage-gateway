@@ -1679,3 +1679,4 @@
 0180. ✨ feat: add export to CSV option
 0495. 🔧 refactor: remove redundant code blocks
 0419. 🎨 style: remove trailing whitespace
+0308. 🚀 perf: reduce image load time
