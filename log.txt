@@ -427,3 +427,4 @@
 0934. ✨ feat: support email verification
 0778. 📚 docs: write FAQ section
 0613. 🐛 fix: prevent crash on empty input
+0210. 🎨 style: apply consistent indentation
