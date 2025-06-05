@@ -426,3 +426,4 @@
 0185. 📚 docs: write FAQ section
 0934. ✨ feat: support email verification
 0778. 📚 docs: write FAQ section
+0613. 🐛 fix: prevent crash on empty input
