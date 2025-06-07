@@ -1682,3 +1682,4 @@
 0308. 🚀 perf: reduce image load time
 0240. 🔧 refactor: remove redundant code blocks
 0634. 🎨 style: reformat files with black
+0649. 📚 docs: update README with setup steps
