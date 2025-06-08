@@ -1684,3 +1684,4 @@
 0634. 🎨 style: reformat files with black
 0649. 📚 docs: update README with setup steps
 0533. ♻️ chore: add GitHub actions badge
+0085. ✨ feat: support email verification
