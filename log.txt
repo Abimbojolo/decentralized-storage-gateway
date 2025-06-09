@@ -1685,3 +1685,4 @@
 0649. 📚 docs: update README with setup steps
 0533. ♻️ chore: add GitHub actions badge
 0085. ✨ feat: support email verification
+0886. ♻️ chore: clean up unused files
