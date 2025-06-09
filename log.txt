@@ -1687,3 +1687,4 @@
 0085. ✨ feat: support email verification
 0886. ♻️ chore: clean up unused files
 0388. 🎨 style: reformat files with black
+0321. 🔧 refactor: organize models into subfolders
