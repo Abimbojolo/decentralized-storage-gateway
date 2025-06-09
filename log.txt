@@ -1686,3 +1686,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0085. ✨ feat: support email verification
 0886. ♻️ chore: clean up unused files
+0388. 🎨 style: reformat files with black
