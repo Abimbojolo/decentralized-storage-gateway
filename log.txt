@@ -437,3 +437,4 @@
 0599. ✅ test: test user registration edge cases
 0252. 🎨 style: remove trailing whitespace
 0941. 🚀 perf: cache repeated calculations
+0624. ✅ test: add unit test for quiz service
