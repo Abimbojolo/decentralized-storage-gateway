@@ -441,3 +441,4 @@
 0971. 🎨 style: standardize quote style
 0093. ✅ test: add unit test for quiz service
 0988. 🐛 fix: fix broken CSS in mobile view
+0903. ✅ test: mock database connection in test suite
