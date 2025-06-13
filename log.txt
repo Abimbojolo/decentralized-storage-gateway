@@ -447,3 +447,4 @@
 0633. ✨ feat: add user authentication
 0435. ✅ test: add unit test for quiz service
 0212. 🎨 style: standardize quote style
+0666. 🐛 fix: fix broken CSS in mobile view
