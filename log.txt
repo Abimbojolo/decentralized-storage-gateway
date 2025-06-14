@@ -452,3 +452,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0531. 🐛 fix: prevent crash on empty input
 0989. 📚 docs: write FAQ section
+0551. 📚 docs: write FAQ section
