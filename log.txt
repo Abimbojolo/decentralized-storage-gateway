@@ -458,3 +458,4 @@
 0557. 🔧 refactor: clean up auth middleware
 0565. ♻️ chore: add GitHub actions badge
 0022. 📚 docs: document token refresh logic
+0101. 📚 docs: clarify environment setup
