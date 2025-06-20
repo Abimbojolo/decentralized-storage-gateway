@@ -462,3 +462,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0037. 🐛 fix: correct typo in registration form
 0593. 🐛 fix: correct typo in registration form
+0787. ♻️ chore: rename env.example
