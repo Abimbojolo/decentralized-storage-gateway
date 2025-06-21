@@ -1703,3 +1703,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0566. 📚 docs: write FAQ section
 0618. ✨ feat: support email verification
+0873. 🚀 perf: cache repeated calculations
