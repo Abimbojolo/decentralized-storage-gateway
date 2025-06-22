@@ -1706,3 +1706,4 @@
 0873. 🚀 perf: cache repeated calculations
 0867. 🔧 refactor: refactor quiz grading logic
 0935. 📚 docs: update README with setup steps
+0654. ✨ feat: create admin dashboard
