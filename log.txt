@@ -472,3 +472,4 @@
 0073. 🔧 refactor: split large controller into smaller functions
 0847. ♻️ chore: clean up unused files
 0776. ✅ test: add integration test for /submit endpoint
+0506. 🐛 fix: handle 500 error in quiz API
