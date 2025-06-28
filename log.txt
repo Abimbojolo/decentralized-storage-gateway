@@ -486,3 +486,4 @@
 0780. 📚 docs: add API usage examples
 0088. 📚 docs: add API usage examples
 0033. 🎨 style: apply consistent indentation
+0862. ♻️ chore: bump dependencies
