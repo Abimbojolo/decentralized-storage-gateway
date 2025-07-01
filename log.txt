@@ -495,3 +495,4 @@
 0870. ♻️ chore: clean up unused files
 0728. 🔧 refactor: split large controller into smaller functions
 0160. ♻️ chore: bump dependencies
+0844. 📚 docs: update README with setup steps
