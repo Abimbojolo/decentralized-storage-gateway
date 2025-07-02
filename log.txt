@@ -497,3 +497,4 @@
 0160. ♻️ chore: bump dependencies
 0844. 📚 docs: update README with setup steps
 0107. 🐛 fix: prevent crash on empty input
+0649. 📚 docs: update README with setup steps
