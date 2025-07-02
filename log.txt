@@ -499,3 +499,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0649. 📚 docs: update README with setup steps
 0041. 🐛 fix: fix broken CSS in mobile view
+0020. ✅ test: add integration test for /submit endpoint
