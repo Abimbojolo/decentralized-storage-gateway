@@ -509,3 +509,4 @@
 0673. 🐛 fix: correct typo in registration form
 0090. ✅ test: increase coverage on auth module
 0195. 📚 docs: clarify environment setup
+0596. ♻️ chore: update .gitignore
