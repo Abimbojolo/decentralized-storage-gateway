@@ -510,3 +510,4 @@
 0090. ✅ test: increase coverage on auth module
 0195. 📚 docs: clarify environment setup
 0596. ♻️ chore: update .gitignore
+0413. ✅ test: add integration test for /submit endpoint
