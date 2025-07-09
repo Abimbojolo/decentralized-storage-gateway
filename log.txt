@@ -516,3 +516,4 @@
 0866. 📚 docs: add API usage examples
 0199. ✨ feat: create admin dashboard
 0035. ✅ test: increase coverage on auth module
+0711. 🐛 fix: fix broken CSS in mobile view
