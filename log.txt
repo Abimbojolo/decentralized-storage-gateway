@@ -521,3 +521,4 @@
 0384. 📚 docs: clarify environment setup
 0580. ♻️ chore: bump dependencies
 0582. ✨ feat: add export to CSV option
+0595. ✨ feat: enable dark mode toggle
