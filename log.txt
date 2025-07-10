@@ -522,3 +522,4 @@
 0580. ♻️ chore: bump dependencies
 0582. ✨ feat: add export to CSV option
 0595. ✨ feat: enable dark mode toggle
+0113. ✨ feat: add user authentication
