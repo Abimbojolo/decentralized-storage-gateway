@@ -525,3 +525,4 @@
 0113. ✨ feat: add user authentication
 0908. ♻️ chore: bump dependencies
 0498. ✅ test: mock database connection in test suite
+0977. 🔧 refactor: organize models into subfolders
