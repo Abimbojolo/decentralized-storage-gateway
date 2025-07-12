@@ -529,3 +529,4 @@
 0055. 📚 docs: update README with setup steps
 0879. 🎨 style: standardize quote style
 0345. 📚 docs: document token refresh logic
+0752. ✅ test: add integration test for /submit endpoint
