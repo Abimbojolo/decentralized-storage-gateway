@@ -533,3 +533,4 @@
 0143. ✨ feat: implement quiz timer feature
 0614. 🚀 perf: reduce image load time
 0452. ✨ feat: implement quiz timer feature
+0968. 🎨 style: standardize quote style
