@@ -531,3 +531,4 @@
 0345. 📚 docs: document token refresh logic
 0752. ✅ test: add integration test for /submit endpoint
 0143. ✨ feat: implement quiz timer feature
+0614. 🚀 perf: reduce image load time
