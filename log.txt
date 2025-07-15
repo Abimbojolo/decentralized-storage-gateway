@@ -544,3 +544,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0829. 🔧 refactor: organize models into subfolders
 0712. 🎨 style: apply consistent indentation
+0273. 🚀 perf: reduce image load time
