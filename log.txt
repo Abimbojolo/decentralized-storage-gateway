@@ -546,3 +546,4 @@
 0712. 🎨 style: apply consistent indentation
 0273. 🚀 perf: reduce image load time
 0120. ✅ test: add integration test for /submit endpoint
+0816. 🔧 refactor: organize models into subfolders
