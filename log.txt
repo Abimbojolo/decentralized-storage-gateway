@@ -551,3 +551,4 @@
 0635. 🎨 style: apply consistent indentation
 0332. 🎨 style: standardize quote style
 0203. 🚀 perf: lazy-load components
+0361. ✨ feat: support email verification
