@@ -2151,3 +2151,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0899. 🚀 perf: cache repeated calculations
 0121. ✨ feat: support email verification
+0885. ♻️ chore: update .gitignore
