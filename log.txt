@@ -566,3 +566,4 @@
 0455. ♻️ chore: clean up unused files
 0743. 🎨 style: apply consistent indentation
 0169. 📚 docs: add API usage examples
+0078. ♻️ chore: update .gitignore
