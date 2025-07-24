@@ -1738,3 +1738,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0780. 📚 docs: add API usage examples
 0121. ✨ feat: support email verification
+0276. ✅ test: add integration test for /submit endpoint
