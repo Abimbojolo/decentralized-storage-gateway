@@ -1742,3 +1742,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0222. 🐛 fix: handle 500 error in quiz API
 0480. ♻️ chore: add GitHub actions badge
+0236. 🔧 refactor: remove redundant code blocks
