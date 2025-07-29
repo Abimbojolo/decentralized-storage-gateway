@@ -583,3 +583,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0299. 🐛 fix: resolve issue with date parsing
 0266. 🔧 refactor: remove redundant code blocks
+0091. ✨ feat: add user authentication
