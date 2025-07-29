@@ -584,3 +584,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0266. 🔧 refactor: remove redundant code blocks
 0091. ✨ feat: add user authentication
+0511. 🐛 fix: fix broken CSS in mobile view
