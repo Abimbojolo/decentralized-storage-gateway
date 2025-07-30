@@ -1749,3 +1749,4 @@
 0596. ♻️ chore: update .gitignore
 0790. 📚 docs: write FAQ section
 0081. 🐛 fix: fix null pointer exception on login
+0532. 🔧 refactor: split large controller into smaller functions
