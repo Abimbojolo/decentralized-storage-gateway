@@ -1747,3 +1747,4 @@
 0418. ✅ test: mock database connection in test suite
 0971. 🎨 style: standardize quote style
 0596. ♻️ chore: update .gitignore
+0790. 📚 docs: write FAQ section
