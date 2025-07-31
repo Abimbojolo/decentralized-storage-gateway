@@ -1751,3 +1751,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0532. 🔧 refactor: split large controller into smaller functions
 0062. ♻️ chore: update .gitignore
+0786. ✨ feat: enable dark mode toggle
