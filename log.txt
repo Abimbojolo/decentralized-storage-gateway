@@ -2153,3 +2153,4 @@
 0121. ✨ feat: support email verification
 0885. ♻️ chore: update .gitignore
 0806. 📚 docs: improve code comments in utils
+0289. 🐛 fix: resolve issue with date parsing
