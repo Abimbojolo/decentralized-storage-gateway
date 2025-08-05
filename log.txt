@@ -1756,3 +1756,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0364. 🐛 fix: resolve issue with date parsing
 0078. ♻️ chore: update .gitignore
+0258. 🐛 fix: prevent crash on empty input
