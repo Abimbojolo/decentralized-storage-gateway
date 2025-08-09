@@ -603,3 +603,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0012. 🚀 perf: cache repeated calculations
 0674. 🔧 refactor: split large controller into smaller functions
+0292. 📚 docs: clarify environment setup
