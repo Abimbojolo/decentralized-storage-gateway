@@ -612,3 +612,4 @@
 0803. ✅ test: mock database connection in test suite
 0910. 🎨 style: remove trailing whitespace
 0233. 🚀 perf: lazy-load components
+0018. 🔧 refactor: organize models into subfolders
