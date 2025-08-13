@@ -617,3 +617,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0181. ♻️ chore: add GitHub actions badge
 0895. ✨ feat: support email verification
+0443. 🎨 style: standardize quote style
