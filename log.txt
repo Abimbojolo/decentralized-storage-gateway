@@ -619,3 +619,4 @@
 0895. ✨ feat: support email verification
 0443. 🎨 style: standardize quote style
 0083. 🎨 style: reformat files with black
+0415. 🐛 fix: handle 500 error in quiz API
