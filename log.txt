@@ -622,3 +622,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0059. ♻️ chore: bump dependencies
 0478. 🐛 fix: resolve issue with date parsing
+0483. 📚 docs: update README with setup steps
