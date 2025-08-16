@@ -1767,3 +1767,4 @@
 0142. ✨ feat: implement quiz timer feature
 0176. 🔧 refactor: remove redundant code blocks
 0591. ♻️ chore: clean up unused files
+0122. ✨ feat: support email verification
