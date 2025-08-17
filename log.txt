@@ -631,3 +631,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0050. ✨ feat: enable dark mode toggle
 0885. ♻️ chore: update .gitignore
+0206. 🐛 fix: handle 500 error in quiz API
