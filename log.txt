@@ -630,3 +630,4 @@
 0638. 📚 docs: improve code comments in utils
 0680. ♻️ chore: add GitHub actions badge
 0050. ✨ feat: enable dark mode toggle
+0885. ♻️ chore: update .gitignore
