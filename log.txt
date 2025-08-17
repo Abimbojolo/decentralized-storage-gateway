@@ -628,3 +628,4 @@
 0545. 🎨 style: standardize quote style
 0701. 🔧 refactor: clean up auth middleware
 0638. 📚 docs: improve code comments in utils
+0680. ♻️ chore: add GitHub actions badge
