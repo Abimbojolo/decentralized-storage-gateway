@@ -2155,3 +2155,4 @@
 0806. 📚 docs: improve code comments in utils
 0289. 🐛 fix: resolve issue with date parsing
 0279. ✨ feat: support email verification
+0273. 🚀 perf: reduce image load time
