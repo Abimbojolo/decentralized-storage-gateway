@@ -642,3 +642,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0777. 📚 docs: document token refresh logic
 0097. 🐛 fix: handle 500 error in quiz API
+0271. ✅ test: add unit test for quiz service
