@@ -643,3 +643,4 @@
 0777. 📚 docs: document token refresh logic
 0097. 🐛 fix: handle 500 error in quiz API
 0271. ✅ test: add unit test for quiz service
+0641. 📚 docs: write FAQ section
