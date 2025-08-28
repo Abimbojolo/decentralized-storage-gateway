@@ -1778,3 +1778,4 @@
 0083. 🎨 style: reformat files with black
 0414. 🔧 refactor: remove redundant code blocks
 0943. 🎨 style: rename variables for clarity
+0129. 🔧 refactor: organize models into subfolders
