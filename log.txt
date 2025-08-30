@@ -653,3 +653,4 @@
 0944. ✨ feat: add user authentication
 0714. 📚 docs: improve code comments in utils
 0996. ✅ test: test user registration edge cases
+0801. ✨ feat: enable dark mode toggle
