@@ -652,3 +652,4 @@
 0789. ✨ feat: create admin dashboard
 0944. ✨ feat: add user authentication
 0714. 📚 docs: improve code comments in utils
+0996. ✅ test: test user registration edge cases
