@@ -658,3 +658,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0681. ✨ feat: create admin dashboard
 0378. 🐛 fix: prevent crash on empty input
+0234. ♻️ chore: rename env.example
