@@ -660,3 +660,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0234. ♻️ chore: rename env.example
 0572. ✨ feat: add user authentication
+0702. ✨ feat: add user authentication
