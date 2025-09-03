@@ -1785,3 +1785,4 @@
 0973. 🔧 refactor: organize models into subfolders
 0972. 🔧 refactor: refactor quiz grading logic
 0438. ♻️ chore: bump dependencies
+0239. 🎨 style: standardize quote style
