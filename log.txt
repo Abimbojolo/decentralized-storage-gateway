@@ -1786,3 +1786,4 @@
 0972. 🔧 refactor: refactor quiz grading logic
 0438. ♻️ chore: bump dependencies
 0239. 🎨 style: standardize quote style
+0593. 🐛 fix: correct typo in registration form
