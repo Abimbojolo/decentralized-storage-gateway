@@ -663,3 +663,4 @@
 0702. ✨ feat: add user authentication
 0975. 🎨 style: apply consistent indentation
 0594. 🎨 style: reformat files with black
+0052. 🎨 style: standardize quote style
