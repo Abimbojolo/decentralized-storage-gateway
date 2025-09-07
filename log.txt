@@ -1791,3 +1791,4 @@
 0704. 🚀 perf: cache repeated calculations
 0058. ♻️ chore: add GitHub actions badge
 0349. ✅ test: increase coverage on auth module
+0259. 🚀 perf: lazy-load components
