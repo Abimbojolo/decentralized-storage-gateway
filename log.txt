@@ -666,3 +666,4 @@
 0052. 🎨 style: standardize quote style
 0516. ✅ test: add unit test for quiz service
 0044. ✅ test: add unit test for quiz service
+0612. ✅ test: test user registration edge cases
