@@ -1796,3 +1796,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0947. 📚 docs: write FAQ section
 0160. ♻️ chore: bump dependencies
+0896. 🚀 perf: reduce image load time
