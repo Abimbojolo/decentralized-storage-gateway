@@ -671,3 +671,4 @@
 0518. ✨ feat: support email verification
 0030. 🐛 fix: fix null pointer exception on login
 0560. 🎨 style: rename variables for clarity
+0749. ✨ feat: support email verification
