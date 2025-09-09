@@ -1798,3 +1798,4 @@
 0160. ♻️ chore: bump dependencies
 0896. 🚀 perf: reduce image load time
 0582. ✨ feat: add export to CSV option
+0359. 🔧 refactor: clean up auth middleware
