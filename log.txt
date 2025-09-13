@@ -680,3 +680,4 @@
 0907. 🔧 refactor: split large controller into smaller functions
 0425. 🔧 refactor: refactor quiz grading logic
 0032. 🎨 style: apply consistent indentation
+0173. 🚀 perf: cache repeated calculations
