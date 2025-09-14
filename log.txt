@@ -1811,3 +1811,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0892. ✅ test: add unit test for quiz service
 0230. ✨ feat: create admin dashboard
+0037. 🐛 fix: correct typo in registration form
