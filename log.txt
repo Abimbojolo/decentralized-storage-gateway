@@ -1809,3 +1809,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0220. 🐛 fix: fix null pointer exception on login
 0261. 🔧 refactor: refactor quiz grading logic
+0892. ✅ test: add unit test for quiz service
