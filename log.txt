@@ -2165,3 +2165,4 @@
 0854. ♻️ chore: rename env.example
 0139. 📚 docs: document token refresh logic
 0019. ✨ feat: enable dark mode toggle
+0525. ✅ test: mock database connection in test suite
