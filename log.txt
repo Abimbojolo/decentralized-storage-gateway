@@ -688,3 +688,4 @@
 0056. ♻️ chore: rename env.example
 0880. 🐛 fix: fix broken CSS in mobile view
 0904. ✨ feat: implement quiz timer feature
+0961. 📚 docs: add API usage examples
