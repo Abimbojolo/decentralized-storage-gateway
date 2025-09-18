@@ -693,3 +693,4 @@
 0892. ✅ test: add unit test for quiz service
 0954. 🚀 perf: cache repeated calculations
 0002. 🚀 perf: cache repeated calculations
+0911. ✅ test: increase coverage on auth module
