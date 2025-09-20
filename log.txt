@@ -697,3 +697,4 @@
 0794. ♻️ chore: clean up unused files
 0215. 🎨 style: reformat files with black
 0933. 📚 docs: clarify environment setup
+0213. ✅ test: add integration test for /submit endpoint
