@@ -701,3 +701,4 @@
 0766. 🎨 style: reformat files with black
 0604. 📚 docs: add API usage examples
 0759. 🔧 refactor: organize models into subfolders
+0882. 🚀 perf: optimize database query for quiz results
