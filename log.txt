@@ -699,3 +699,4 @@
 0933. 📚 docs: clarify environment setup
 0213. ✅ test: add integration test for /submit endpoint
 0766. 🎨 style: reformat files with black
+0604. 📚 docs: add API usage examples
