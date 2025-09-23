@@ -708,3 +708,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0394. 🚀 perf: lazy-load components
 0812. 🔧 refactor: refactor quiz grading logic
+0905. ♻️ chore: bump dependencies
