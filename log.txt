@@ -705,3 +705,4 @@
 0577. ✨ feat: implement quiz timer feature
 0999. 🔧 refactor: split large controller into smaller functions
 0886. ♻️ chore: clean up unused files
+0587. 🔧 refactor: remove redundant code blocks
