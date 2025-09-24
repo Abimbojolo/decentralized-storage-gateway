@@ -710,3 +710,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0905. ♻️ chore: bump dependencies
 0782. 📚 docs: improve code comments in utils
+0469. 🚀 perf: lazy-load components
