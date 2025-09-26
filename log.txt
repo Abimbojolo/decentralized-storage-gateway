@@ -1826,3 +1826,4 @@
 0266. 🔧 refactor: remove redundant code blocks
 0633. ✨ feat: add user authentication
 0568. 🐛 fix: handle 500 error in quiz API
+0248. 🐛 fix: handle 500 error in quiz API
