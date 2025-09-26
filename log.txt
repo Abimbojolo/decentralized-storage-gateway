@@ -715,3 +715,4 @@
 0453. 🎨 style: standardize quote style
 0028. 🎨 style: standardize quote style
 0480. ♻️ chore: add GitHub actions badge
+0947. 📚 docs: write FAQ section
