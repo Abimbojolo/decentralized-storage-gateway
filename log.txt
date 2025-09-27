@@ -1831,3 +1831,4 @@
 0247. 🎨 style: apply consistent indentation
 0023. 📚 docs: clarify environment setup
 0627. 📚 docs: document token refresh logic
+0383. 🐛 fix: fix broken CSS in mobile view
