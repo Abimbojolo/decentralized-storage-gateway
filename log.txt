@@ -1829,3 +1829,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0803. ✅ test: mock database connection in test suite
 0247. 🎨 style: apply consistent indentation
+0023. 📚 docs: clarify environment setup
