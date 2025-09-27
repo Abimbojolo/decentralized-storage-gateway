@@ -1830,3 +1830,4 @@
 0803. ✅ test: mock database connection in test suite
 0247. 🎨 style: apply consistent indentation
 0023. 📚 docs: clarify environment setup
+0627. 📚 docs: document token refresh logic
