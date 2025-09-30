@@ -724,3 +724,4 @@
 0286. ✅ test: mock database connection in test suite
 0682. ♻️ chore: rename env.example
 0116. ✨ feat: support email verification
+0640. ♻️ chore: bump dependencies
