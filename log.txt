@@ -1839,3 +1839,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0076. 🎨 style: reformat files with black
 0885. ♻️ chore: update .gitignore
+0610. 🚀 perf: lazy-load components
