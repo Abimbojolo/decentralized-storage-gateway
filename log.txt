@@ -1835,3 +1835,4 @@
 0630. 🚀 perf: lazy-load components
 0898. 🐛 fix: fix broken CSS in mobile view
 0071. 🔧 refactor: refactor quiz grading logic
+0557. 🔧 refactor: clean up auth middleware
