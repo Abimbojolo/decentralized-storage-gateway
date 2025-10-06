@@ -1847,3 +1847,4 @@
 0992. ♻️ chore: clean up unused files
 0235. 🐛 fix: fix null pointer exception on login
 0155. ✨ feat: create admin dashboard
+0781. 🚀 perf: reduce image load time
