@@ -1849,3 +1849,4 @@
 0155. ✨ feat: create admin dashboard
 0781. 🚀 perf: reduce image load time
 0368. 🚀 perf: lazy-load components
+0165. 🎨 style: remove trailing whitespace
