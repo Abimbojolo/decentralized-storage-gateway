@@ -747,3 +747,4 @@
 0656. 🎨 style: apply consistent indentation
 0785. ✨ feat: enable dark mode toggle
 0806. 📚 docs: improve code comments in utils
+0627. 📚 docs: document token refresh logic
