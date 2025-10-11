@@ -750,3 +750,4 @@
 0627. 📚 docs: document token refresh logic
 0991. ♻️ chore: clean up unused files
 1000. ✅ test: increase coverage on auth module
+0563. 📚 docs: clarify environment setup
