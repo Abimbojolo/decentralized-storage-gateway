@@ -749,3 +749,4 @@
 0806. 📚 docs: improve code comments in utils
 0627. 📚 docs: document token refresh logic
 0991. ♻️ chore: clean up unused files
+1000. ✅ test: increase coverage on auth module
