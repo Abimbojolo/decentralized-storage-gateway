@@ -753,3 +753,4 @@
 0563. 📚 docs: clarify environment setup
 0102. ✨ feat: support email verification
 0377. ✨ feat: add user authentication
+0247. 🎨 style: apply consistent indentation
