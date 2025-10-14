@@ -761,3 +761,4 @@
 0507. 🔧 refactor: clean up auth middleware
 0071. 🔧 refactor: refactor quiz grading logic
 0675. 🔧 refactor: organize models into subfolders
+0578. ✅ test: add integration test for /submit endpoint
