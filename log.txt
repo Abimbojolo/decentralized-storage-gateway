@@ -766,3 +766,4 @@
 0925. ✨ feat: add export to CSV option
 0133. 🐛 fix: fix null pointer exception on login
 0503. ♻️ chore: rename env.example
+0304. 🔧 refactor: remove redundant code blocks
