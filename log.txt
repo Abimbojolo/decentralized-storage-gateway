@@ -770,3 +770,4 @@
 0931. 🚀 perf: reduce image load time
 0397. 🐛 fix: handle 500 error in quiz API
 0523. ♻️ chore: bump dependencies
+0372. ✨ feat: add user authentication
