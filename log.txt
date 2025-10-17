@@ -774,3 +774,4 @@
 0134. ✨ feat: implement quiz timer feature
 0061. ✨ feat: create admin dashboard
 0909. 🔧 refactor: organize models into subfolders
+0636. ✅ test: increase coverage on auth module
