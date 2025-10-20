@@ -1866,3 +1866,4 @@
 0739. 🎨 style: remove trailing whitespace
 0361. ✨ feat: support email verification
 0439. 🐛 fix: correct typo in registration form
+0195. 📚 docs: clarify environment setup
