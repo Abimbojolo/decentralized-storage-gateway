@@ -789,3 +789,4 @@
 0259. 🚀 perf: lazy-load components
 0542. 🔧 refactor: organize models into subfolders
 0536. ✨ feat: add user authentication
+0064. 📚 docs: clarify environment setup
