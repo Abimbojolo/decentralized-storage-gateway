@@ -793,3 +793,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0629. 🔧 refactor: organize models into subfolders
 0274. 🔧 refactor: refactor quiz grading logic
+0692. ✅ test: add integration test for /submit endpoint
