@@ -791,3 +791,4 @@
 0536. ✨ feat: add user authentication
 0064. 📚 docs: clarify environment setup
 0815. 🔧 refactor: split large controller into smaller functions
+0629. 🔧 refactor: organize models into subfolders
