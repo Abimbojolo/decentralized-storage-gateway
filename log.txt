@@ -796,3 +796,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0127. 🐛 fix: fix null pointer exception on login
 0848. 📚 docs: update README with setup steps
+0086. 🐛 fix: correct typo in registration form
