@@ -803,3 +803,4 @@
 0819. 🚀 perf: reduce image load time
 0188. 🎨 style: apply consistent indentation
 0268. 🐛 fix: prevent crash on empty input
+0726. ✨ feat: enable dark mode toggle
