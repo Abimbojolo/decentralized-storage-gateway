@@ -804,3 +804,4 @@
 0188. 🎨 style: apply consistent indentation
 0268. 🐛 fix: prevent crash on empty input
 0726. ✨ feat: enable dark mode toggle
+0484. 🐛 fix: handle 500 error in quiz API
