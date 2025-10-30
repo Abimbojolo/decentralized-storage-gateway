@@ -1885,3 +1885,4 @@
 0875. ✅ test: increase coverage on auth module
 0205. 📚 docs: update README with setup steps
 0348. ✅ test: test user registration edge cases
+0502. 📚 docs: update README with setup steps
