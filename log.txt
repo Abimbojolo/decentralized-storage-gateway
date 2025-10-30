@@ -808,3 +808,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0744. 🔧 refactor: remove redundant code blocks
 0202. 🔧 refactor: refactor quiz grading logic
+0204. 🎨 style: standardize quote style
