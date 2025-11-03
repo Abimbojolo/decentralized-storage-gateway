@@ -816,3 +816,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0648. ♻️ chore: bump dependencies
 0217. 🚀 perf: reduce image load time
+0062. ♻️ chore: update .gitignore
