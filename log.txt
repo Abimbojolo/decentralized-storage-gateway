@@ -1890,3 +1890,4 @@
 0139. 📚 docs: document token refresh logic
 0481. ✅ test: add unit test for quiz service
 0045. 🎨 style: apply consistent indentation
+0362. 📚 docs: add API usage examples
