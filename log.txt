@@ -821,3 +821,4 @@
 0462. ♻️ chore: update .gitignore
 0115. 🚀 perf: reduce image load time
 0527. 🎨 style: remove trailing whitespace
+0837. 🚀 perf: cache repeated calculations
