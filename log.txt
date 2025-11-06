@@ -1892,3 +1892,4 @@
 0045. 🎨 style: apply consistent indentation
 0362. 📚 docs: add API usage examples
 0542. 🔧 refactor: organize models into subfolders
+0140. 🐛 fix: handle 500 error in quiz API
