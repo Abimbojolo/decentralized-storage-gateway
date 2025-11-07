@@ -2177,3 +2177,4 @@
 0770. ♻️ chore: rename env.example
 0810. 🔧 refactor: refactor quiz grading logic
 0267. 📚 docs: improve code comments in utils
+0084. 🐛 fix: handle 500 error in quiz API
