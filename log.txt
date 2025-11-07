@@ -828,3 +828,4 @@
 0601. ✨ feat: implement quiz timer feature
 0842. 🎨 style: remove trailing whitespace
 0859. ✨ feat: create admin dashboard
+0227. ✅ test: test user registration edge cases
