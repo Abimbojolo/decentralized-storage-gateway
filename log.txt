@@ -829,3 +829,4 @@
 0842. 🎨 style: remove trailing whitespace
 0859. ✨ feat: create admin dashboard
 0227. ✅ test: test user registration edge cases
+0346. ✅ test: mock database connection in test suite
