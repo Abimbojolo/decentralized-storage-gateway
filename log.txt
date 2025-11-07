@@ -830,3 +830,4 @@
 0859. ✨ feat: create admin dashboard
 0227. ✅ test: test user registration edge cases
 0346. ✅ test: mock database connection in test suite
+0144. ✅ test: increase coverage on auth module
