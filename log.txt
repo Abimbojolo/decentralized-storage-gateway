@@ -833,3 +833,4 @@
 0144. ✅ test: increase coverage on auth module
 0095. ✅ test: mock database connection in test suite
 0454. ♻️ chore: bump dependencies
+0529. 📚 docs: write FAQ section
