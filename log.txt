@@ -838,3 +838,4 @@
 0914. ✅ test: test user registration edge cases
 0621. 🔧 refactor: clean up auth middleware
 0939. 📚 docs: update README with setup steps
+0087. ✨ feat: add export to CSV option
