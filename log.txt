@@ -834,3 +834,4 @@
 0095. ✅ test: mock database connection in test suite
 0454. ♻️ chore: bump dependencies
 0529. 📚 docs: write FAQ section
+0600. 🐛 fix: prevent crash on empty input
