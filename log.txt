@@ -843,3 +843,4 @@
 0277. 🎨 style: standardize quote style
 0710. 🐛 fix: fix broken CSS in mobile view
 0172. 📚 docs: add API usage examples
+0706. ✨ feat: support email verification
