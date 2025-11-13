@@ -852,3 +852,4 @@
 0256. ✅ test: mock database connection in test suite
 0920. 🔧 refactor: organize models into subfolders
 0122. ✨ feat: support email verification
+0575. ✅ test: add unit test for quiz service
