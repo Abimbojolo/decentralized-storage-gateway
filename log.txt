@@ -865,3 +865,4 @@
 0323. 📚 docs: clarify environment setup
 0358. 🚀 perf: reduce image load time
 0972. 🔧 refactor: refactor quiz grading logic
+0997. ✅ test: increase coverage on auth module
