@@ -860,3 +860,4 @@
 0389. 📚 docs: improve code comments in utils
 0698. 🐛 fix: handle 500 error in quiz API
 0034. 📚 docs: improve code comments in utils
+0399. ✅ test: mock database connection in test suite
