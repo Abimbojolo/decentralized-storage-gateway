@@ -866,3 +866,4 @@
 0358. 🚀 perf: reduce image load time
 0972. 🔧 refactor: refactor quiz grading logic
 0997. ✅ test: increase coverage on auth module
+0448. 🐛 fix: correct typo in registration form
