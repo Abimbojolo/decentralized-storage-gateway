@@ -1902,3 +1902,4 @@
 0970. ♻️ chore: update .gitignore
 0889. 🚀 perf: lazy-load components
 0735. ♻️ chore: add GitHub actions badge
+0986. 📚 docs: document token refresh logic
