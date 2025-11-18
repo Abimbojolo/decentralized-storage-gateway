@@ -870,3 +870,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0549. ✨ feat: enable dark mode toggle
 0821. ✅ test: add integration test for /submit endpoint
+0481. ✅ test: add unit test for quiz service
