@@ -875,3 +875,4 @@
 0178. ✨ feat: support email verification
 0756. ✨ feat: support email verification
 0731. 🎨 style: standardize quote style
+0496. ✅ test: add integration test for /submit endpoint
