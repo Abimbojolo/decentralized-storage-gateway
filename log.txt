@@ -1904,3 +1904,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0986. 📚 docs: document token refresh logic
 0003. ✅ test: increase coverage on auth module
+0175. 📚 docs: add API usage examples
