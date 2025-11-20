@@ -1906,3 +1906,4 @@
 0003. ✅ test: increase coverage on auth module
 0175. 📚 docs: add API usage examples
 0035. ✅ test: increase coverage on auth module
+0304. 🔧 refactor: remove redundant code blocks
