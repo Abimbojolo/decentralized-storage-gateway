@@ -881,3 +881,4 @@
 0586. 🎨 style: remove trailing whitespace
 0230. ✨ feat: create admin dashboard
 0209. ✨ feat: implement quiz timer feature
+0889. 🚀 perf: lazy-load components
