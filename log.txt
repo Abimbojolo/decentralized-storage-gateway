@@ -2180,3 +2180,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0809. ♻️ chore: rename env.example
 0169. 📚 docs: add API usage examples
+0942. ✅ test: increase coverage on auth module
