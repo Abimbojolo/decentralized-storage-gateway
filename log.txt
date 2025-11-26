@@ -1914,3 +1914,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0984. ♻️ chore: clean up unused files
 0605. ✨ feat: support email verification
+0612. ✅ test: test user registration edge cases
