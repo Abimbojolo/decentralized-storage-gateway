@@ -1915,3 +1915,4 @@
 0984. ♻️ chore: clean up unused files
 0605. ✨ feat: support email verification
 0612. ✅ test: test user registration edge cases
+0546. 🐛 fix: fix null pointer exception on login
