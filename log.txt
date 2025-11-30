@@ -897,3 +897,4 @@
 0180. ✨ feat: add export to CSV option
 0401. 🚀 perf: reduce image load time
 0592. 📚 docs: add API usage examples
+0779. 🔧 refactor: organize models into subfolders
