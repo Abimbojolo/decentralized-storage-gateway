@@ -905,3 +905,4 @@
 0630. 🚀 perf: lazy-load components
 0937. 🐛 fix: handle 500 error in quiz API
 0741. 🎨 style: apply consistent indentation
+0786. ✨ feat: enable dark mode toggle
