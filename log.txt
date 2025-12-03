@@ -907,3 +907,4 @@
 0741. 🎨 style: apply consistent indentation
 0786. ✨ feat: enable dark mode toggle
 0610. 🚀 perf: lazy-load components
+0158. 📚 docs: clarify environment setup
