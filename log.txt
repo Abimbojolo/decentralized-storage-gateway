@@ -1924,3 +1924,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0989. 📚 docs: write FAQ section
 0602. 🔧 refactor: remove redundant code blocks
+0063. 🐛 fix: handle 500 error in quiz API
