@@ -912,3 +912,4 @@
 0458. ✨ feat: create admin dashboard
 0440. 📚 docs: update README with setup steps
 0732. ♻️ chore: add GitHub actions badge
+0171. 🐛 fix: fix broken CSS in mobile view
