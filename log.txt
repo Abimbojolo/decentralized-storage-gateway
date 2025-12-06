@@ -1927,3 +1927,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0924. ✅ test: mock database connection in test suite
 0920. 🔧 refactor: organize models into subfolders
+0901. ✨ feat: add user authentication
