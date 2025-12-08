@@ -919,3 +919,4 @@
 0654. ✨ feat: create admin dashboard
 0310. 🔧 refactor: refactor quiz grading logic
 0449. ✅ test: add unit test for quiz service
+0697. ♻️ chore: bump dependencies
