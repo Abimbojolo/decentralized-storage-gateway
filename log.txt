@@ -922,3 +922,4 @@
 0697. ♻️ chore: bump dependencies
 0986. 📚 docs: document token refresh logic
 0473. 📚 docs: write FAQ section
+0974. ✨ feat: add export to CSV option
