@@ -927,3 +927,4 @@
 0257. 📚 docs: clarify environment setup
 0619. ✨ feat: create admin dashboard
 0342. 🚀 perf: cache repeated calculations
+0605. ✨ feat: support email verification
