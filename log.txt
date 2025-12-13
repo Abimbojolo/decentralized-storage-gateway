@@ -928,3 +928,4 @@
 0619. ✨ feat: create admin dashboard
 0342. 🚀 perf: cache repeated calculations
 0605. ✨ feat: support email verification
+0224. 🐛 fix: fix broken CSS in mobile view
