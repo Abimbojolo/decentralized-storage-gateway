@@ -1935,3 +1935,4 @@
 0996. ✅ test: test user registration edge cases
 0903. ✅ test: mock database connection in test suite
 0299. 🐛 fix: resolve issue with date parsing
+0552. 🐛 fix: fix null pointer exception on login
