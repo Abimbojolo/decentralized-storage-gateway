@@ -930,3 +930,4 @@
 0605. ✨ feat: support email verification
 0224. 🐛 fix: fix broken CSS in mobile view
 0081. 🐛 fix: fix null pointer exception on login
+0707. 🎨 style: apply consistent indentation
