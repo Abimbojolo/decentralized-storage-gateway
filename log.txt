@@ -2187,3 +2187,4 @@
 0482. ✨ feat: add export to CSV option
 0791. 🔧 refactor: clean up auth middleware
 0051. ✨ feat: enable dark mode toggle
+0428. 🐛 fix: fix null pointer exception on login
