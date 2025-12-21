@@ -952,3 +952,4 @@
 0921. 🐛 fix: correct typo in registration form
 0330. ✅ test: test user registration edge cases
 0927. ♻️ chore: bump dependencies
+0764. ✨ feat: add user authentication
