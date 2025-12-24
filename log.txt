@@ -959,3 +959,4 @@
 0809. ♻️ chore: rename env.example
 0631. ✨ feat: create admin dashboard
 0693. 📚 docs: add API usage examples
+0585. 🚀 perf: lazy-load components
