@@ -958,3 +958,4 @@
 0313. 🎨 style: apply consistent indentation
 0809. ♻️ chore: rename env.example
 0631. ✨ feat: create admin dashboard
+0693. 📚 docs: add API usage examples
