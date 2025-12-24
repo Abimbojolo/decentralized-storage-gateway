@@ -1957,3 +1957,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0794. ♻️ chore: clean up unused files
 0522. 🐛 fix: handle 500 error in quiz API
+0422. 🔧 refactor: organize models into subfolders
