@@ -965,3 +965,4 @@
 0811. 🎨 style: reformat files with black
 0611. ✅ test: test user registration edge cases
 0773. 📚 docs: document token refresh logic
+0746. ♻️ chore: add GitHub actions badge
