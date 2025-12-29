@@ -974,3 +974,4 @@
 0407. 🚀 perf: cache repeated calculations
 0366. 🔧 refactor: remove redundant code blocks
 0337. 📚 docs: document token refresh logic
+0085. ✨ feat: support email verification
