@@ -980,3 +980,4 @@
 0946. ✅ test: add unit test for quiz service
 0082. 🔧 refactor: refactor quiz grading logic
 0832. 🔧 refactor: remove redundant code blocks
+0219. ✅ test: increase coverage on auth module
