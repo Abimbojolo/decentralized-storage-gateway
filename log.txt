@@ -981,3 +981,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0832. 🔧 refactor: remove redundant code blocks
 0219. ✅ test: increase coverage on auth module
+0437. 📚 docs: clarify environment setup
