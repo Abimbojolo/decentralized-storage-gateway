@@ -984,3 +984,4 @@
 0437. 📚 docs: clarify environment setup
 0509. ♻️ chore: bump dependencies
 0856. 🐛 fix: fix null pointer exception on login
+0246. ✅ test: add integration test for /submit endpoint
