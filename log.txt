@@ -987,3 +987,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0979. 🎨 style: standardize quote style
 0132. ✅ test: add unit test for quiz service
+0721. 🚀 perf: optimize database query for quiz results
