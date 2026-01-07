@@ -1974,3 +1974,4 @@
 0442. 🎨 style: standardize quote style
 0689. 🎨 style: reformat files with black
 0664. ✅ test: add unit test for quiz service
+0701. 🔧 refactor: clean up auth middleware
