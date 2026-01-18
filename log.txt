@@ -1991,3 +1991,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0551. 📚 docs: write FAQ section
 0384. 📚 docs: clarify environment setup
+0985. 📚 docs: document token refresh logic
