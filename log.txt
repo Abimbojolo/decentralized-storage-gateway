@@ -1993,3 +1993,4 @@
 0384. 📚 docs: clarify environment setup
 0985. 📚 docs: document token refresh logic
 0487. 🎨 style: reformat files with black
+0172. 📚 docs: add API usage examples
