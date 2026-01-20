@@ -1995,3 +1995,4 @@
 0487. 🎨 style: reformat files with black
 0172. 📚 docs: add API usage examples
 0949. 📚 docs: write FAQ section
+0528. ♻️ chore: clean up unused files
