@@ -1994,3 +1994,4 @@
 0985. 📚 docs: document token refresh logic
 0487. 🎨 style: reformat files with black
 0172. 📚 docs: add API usage examples
+0949. 📚 docs: write FAQ section
